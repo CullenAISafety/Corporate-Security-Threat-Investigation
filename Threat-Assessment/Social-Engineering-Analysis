@@ -1,0 +1,61 @@
+# Social Engineering Analysis
+
+**Project:** Corporate Security Threat Investigation Case Study  
+**Incident Date:** March 29, 2026  
+**Author:** Cullen E. Mathews  
+**Category:** Social Engineering | Human Factors | Corporate Security
+
+---
+
+## 1. Overview
+
+This analysis examines potential social engineering considerations associated with the March 29, 2026 incident.
+
+Social engineering involves techniques that exploit human interactions, trust, authority, urgency, or psychological manipulation to obtain information, influence decisions, or gain access to resources.
+
+In corporate environments, these techniques can be used to gather sensitive business information, identify organizational vulnerabilities, or establish relationships that could facilitate further information gathering.
+
+The purpose of this analysis is to identify relevant social engineering considerations and evaluate whether the circumstances of the incident warrant further examination.
+
+No confirmed social engineering attack is asserted without supporting evidence.
+
+## 2. Potential Social Engineering Indicators
+
+The following indicators provide an analytical framework for evaluating the encounter.
+
+### 2.1 Unusual Information Requests
+
+Examine whether the individual requested information that appeared unnecessary, sensitive, confidential, or unrelated to the stated purpose of the interaction.
+
+Examples of information that may warrant additional scrutiny include:
+
+- Internal organizational procedures.
+- Employee roles and responsibilities.
+- Security arrangements.
+- Business operations.
+- Confidential company information.
+- Proprietary research or intellectual property.
+
+### 2.2 Establishing Trust or Rapport
+
+Social engineering can involve attempts to establish familiarity, credibility, or trust before requesting information.
+
+Relevant considerations include:
+
+- Whether an individual attempted to establish an unusual relationship.
+- Whether credentials, affiliations, or authority were presented.
+- Whether the interaction involved unusual persuasion.
+- Whether the individual attempted to establish credibility without verifiable support.
+
+### 2.3 Pretexting
+
+Pretexting involves creating a fabricated or misleading scenario to encourage someone to disclose information or take an action.
+
+The investigation should consider whether the approach involved:
+
+- An unusual explanation for the interaction.
+- A potentially misleading professional or organizational identity.
+- Requests supported by an unverifiable explanation.
+- Attempts to obtain information under questionable circumstances.
+
+These are assessment criteria, not established characteristics
