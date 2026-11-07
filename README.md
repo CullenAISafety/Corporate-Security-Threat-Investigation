@@ -1,4 +1,3 @@
-# Corporate-Security-Threat-Investigation
 # Corporate Security Threat Investigation Case Study
 
 **Independent Cybersecurity Case Study**  
