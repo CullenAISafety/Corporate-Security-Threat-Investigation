@@ -1,0 +1,121 @@
+# Corporate Security Risks
+
+**Project:** Corporate Security Threat Investigation Case Study  
+**Incident Date:** March 29, 2026  
+**Author:** Cullen E. Mathews  
+**Category:** Corporate Security | Risk Assessment | Threat Intelligence
+
+---
+
+## 1. Overview
+
+This document evaluates potential corporate security risks associated with the March 29, 2026 incident.
+
+The circumstances surrounding the encounter raised concerns about possible corporate intelligence gathering, social engineering, and the protection of sensitive organizational information.
+
+Corporate security risks extend beyond traditional network and infrastructure vulnerabilities. Organizations must also consider threats involving personnel, business relationships, confidential communications, intellectual property, and information disclosure.
+
+This assessment identifies potential risk areas and recommends security controls that organizations can use to reduce exposure.
+
+No confirmed corporate espionage, information theft, or unauthorized access is asserted by this assessment.
+
+## 2. Corporate Security Risk Categories
+
+### 2.1 Intellectual Property Exposure
+
+Intellectual property represents an important organizational asset.
+
+Potential exposure could involve:
+
+- Proprietary research and development.
+- Product designs and specifications.
+- Engineering documentation.
+- Internal business strategies.
+- Trade secrets.
+- Confidential technical information.
+
+**Potential impact:**
+
+Unauthorized disclosure could result in competitive disadvantages, financial losses, reputational damage, or loss of proprietary advantages.
+
+**Recommended controls:**
+
+- Restrict access to proprietary information.
+- Implement data classification policies.
+- Maintain access controls and audit logs.
+- Train personnel on intellectual property protection.
+- Establish procedures for reporting suspicious information requests.
+
+### 2.2 Corporate Intelligence Gathering
+
+Corporate intelligence gathering can involve collecting information about an organization's operations, personnel, technology, business strategy, or security practices.
+
+Potential concerns include:
+
+- Attempts to obtain internal organizational information.
+- Collection of employee or management details.
+- Questions regarding internal operations.
+- Attempts to understand security procedures.
+- Gathering information about proprietary products or services.
+
+**Potential impact:**
+
+Information collected without authorization could potentially be used to support competitive intelligence activities, social engineering, or further targeted attacks.
+
+**Recommended controls:**
+
+- Establish clear information-sharing policies.
+- Verify external requests for sensitive information.
+- Monitor access to confidential organizational records.
+- Educate employees about suspicious information requests.
+
+### 2.3 Social Engineering and Human Factors
+
+Personnel can become targets of manipulation designed to obtain information or influence organizational decisions.
+
+Potential techniques include:
+
+- Pretexting.
+- Impersonation.
+- Relationship building for information gathering.
+- Authority-based manipulation.
+- Urgency or pressure tactics.
+- Phishing and targeted communication.
+
+**Potential impact:**
+
+Successful manipulation could lead to unauthorized information disclosure, compromised accounts, or further security incidents.
+
+**Recommended controls:**
+
+- Conduct social engineering awareness training.
+- Establish identity verification procedures.
+- Implement multi-factor authentication.
+- Encourage employees to report suspicious interactions.
+- Establish clear escalation procedures.
+
+### 2.4 Insider Threat Considerations
+
+Insider threats involve risks associated with individuals who possess legitimate organizational access or knowledge.
+
+Potential scenarios include:
+
+- Unauthorized disclosure of confidential information.
+- Misuse of legitimate access.
+- Improper handling of proprietary information.
+- Unauthorized transfer of business records.
+- Abuse of organizational privileges.
+
+**Potential impact:**
+
+Insider-related incidents can expose sensitive information and create operational, financial, and reputational consequences.
+
+**Recommended controls:**
+
+- Apply least-privilege access principles.
+- Maintain access monitoring and audit logs.
+- Review access permissions periodically.
+- Establish appropriate data-loss prevention controls.
+- Maintain clear reporting and investigation procedures.
+
+These scenarios are general risk considerations and are not findings that an insider was involved in this incident
