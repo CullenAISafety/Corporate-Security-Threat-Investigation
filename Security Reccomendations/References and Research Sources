@@ -1,0 +1,136 @@
+References and Research Sources
+Case Study: Corporate Security Threat Investigation Case Study
+Related Document: Recommendations/Security-Recommendations.md
+Incident Date: March 29, 2026
+Research Focus: Social Engineering, Corporate Security, Cybersecurity Risk Management, Incident Response, and Information Protection
+1. Purpose
+This document identifies the academic research, government publications, and cybersecurity frameworks supporting the security recommendations developed for the Corporate Security Threat Investigation Case Study.
+
+The sources provide a foundation for understanding social engineering, phishing susceptibility, information security awareness, organizational risk management, incident response, and the protection of sensitive corporate information.
+
+The references are intended to support defensive security analysis. They do not independently verify the allegations or establish that espionage or other criminal activity occurred in the case being documented.
+2. Government and Cybersecurity Framework Publications
+2.1 National Institute of Standards and Technology (NIST)
+[1] Nelson, A., Rekhi, S., Souppaya, M., & Scarfone, K. (2025). Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile. NIST Special Publication 800-61 Revision 3.
+- Official publication: https://csrc.nist.gov/pubs/sp/800/61/r3/final
+- DOI: https://doi.org/10.6028/NIST.SP.800-61r3
+Relevance: Provides guidance for integrating incident response into organizational cybersecurity risk management. Supports recommendations concerning incident preparation, detection, response, recovery, and documentation. 
+csrc.nist.gov+1
+
+
+[2] Pascoe, C., Quinn, S., & Scarfone, K. (2024). The NIST Cybersecurity Framework (CSF) 2.0. NIST Cybersecurity White Paper 29.
+- Official publication: https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20
+- DOI: https://doi.org/10.6028/NIST.CSWP.29
+Relevance: Establishes a risk-management framework organized around six functions: Govern, Identify, Protect, Detect, Respond, and Recover. Supports the overall structure of the security recommendations. 
+nist.gov+1
+
+
+[3] Joint Task Force. (2020). Security and Privacy Controls for Information Systems and Organizations. NIST Special Publication 800-53 Revision 5.
+- Official publication: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+- DOI: https://doi.org/10.6028/NIST.SP.800-53r5
+Relevance: Provides a catalog of security and privacy controls covering access control, awareness and training, audit and accountability, incident response, identification and authentication, and system protection.
+2.2 Cybersecurity and Infrastructure Security Agency (CISA)
+[4] Cybersecurity and Infrastructure Security Agency. Secure Our World.
+
+- Official resource: https://www.cisa.gov/secure-our-world
+
+Relevance: Provides practical cybersecurity guidance concerning phishing awareness, strong passwords, multifactor authentication, and software updates. Supports the employee-awareness and technical-security recommendations.
+2.3 Federal Bureau of Investigation (FBI)
+[5] Federal Bureau of Investigation. Counterintelligence.
+
+- Official resource: https://www.fbi.gov/investigate/counterintelligence
+
+Relevance: Provides background on counterintelligence and the protection of national and economic security. Useful for understanding the broader context of information-gathering risks without assuming that a particular interaction constitutes espionage.
+
+[6] Federal Bureau of Investigation. Counterintelligence Partnerships.
+
+- Official resource: https://www.fbi.gov/investigate/counterintelligence/partnerships
+
+Relevance: Provides information about cooperation between organizations and government agencies in addressing counterintelligence concerns.
+
+3. Academic Research and Peer-Reviewed Literature
+3.1 Social Engineering and Phishing
+[7] Spicer, M., & Nurse, J. R. C. (2026). What makes people susceptible to phishing attacks: A systematic literature review and future research agenda. Computers & Security.
+- DOI: https://doi.org/10.1016/j.cose.2026.105096
+- Author repository: https://kar.kent.ac.uk/115870/
+Relevance: Examines individual and environmental factors associated with phishing susceptibility and the effectiveness of organizational controls. Its systematic review provides research context for employee awareness and organizational prevention measures. 
+sciencedirect.com+1
+
+
+[8] A review of organization-oriented phishing research. (2024). PeerJ Computer Science, 10, e2487.
+- DOI: https://doi.org/10.7717/peerj-cs.2487
+- Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11623132/
+Relevance: Reviews organizational phishing research, including detection, awareness, and mitigation. Supports the recommendation that organizations use multiple layers of protection rather than relying exclusively on employee training. 
+pmc.ncbi.nlm.nih.gov
+
+
+[9] The key factors that influence employees’ awareness of social engineering: A systematic literature review. (2025). Heliyon.
+
+- DOI: https://doi.org/10.1016/j.heliyon.2025.e44012
+
+Relevance: Examines factors influencing employee awareness of social engineering. Supports role-specific awareness training and the use of realistic social-engineering scenarios. 
+sciencedirect.com
+
+3.2 Insider Risk and Human Factors
+[10] Integrating Human Factors into Insider Threat Detection – A Systematic Review. (2026). ACM Computing Surveys, 58(10), Article 260.
+
+- DOI: https://doi.org/10.1145/3798089
+
+Relevance: Reviews research on human factors associated with insider threats, including risks involving employees, contractors, and trusted business partners. It provides context for combining organizational procedures with technical security controls. 
+A Systematic Review
+
+
+4. Reference-to-Recommendation Mapping
+The following table connects the research sources to the recommendations in the main security paper.
+Security recommendation	Supporting references
+Incident documentation and response	[1], [2]
+Organizational cybersecurity governance	[2], [3]
+Identity and access management	[2], [3]
+Security awareness and employee training	[4], [8], [9]
+Social engineering and phishing prevention	[4], [7], [8], [9]
+Insider-risk awareness	[3], [10]
+External information-gathering concerns	[5], [6]
+Evidence preservation and escalation	[1], [5]
+Risk assessment and continuous improvement	[1], [2], [3]
+
+5. Research Application to the Case Study
+The sources above support five principal conclusions:
+
+1. Security requires multiple layers of protection.
+
+Employee awareness is important, but it should be supported by technical controls, access restrictions, monitoring, and organizational procedures.
+
+2. External contacts should be independently verified.
+
+Organizations should establish consistent procedures for verifying unfamiliar consultants, researchers, recruiting contacts, and other external parties before sensitive information is disclosed.
+
+3. Employees need clear reporting procedures.
+
+Employees should know how to report unusual information requests and preserve relevant communications without independently conducting investigations.
+
+4. Incident response should be evidence-based.
+
+NIST guidance supports preparing for, detecting, responding to, and recovering from cybersecurity incidents through documented processes. The organization should evaluate the available evidence before determining the severity or nature of an event.
+
+5. Potential threats must be distinguished from established facts.
+
+Counterintelligence and insider-risk research provides context for understanding organizational exposure. It does not establish the intent or conduct of an individual involved in a particular interaction.
+6. Research Limitations and Source Verification
+The references have different evidentiary roles:
+- Government publications provide established security frameworks and defensive guidance.
+- Peer-reviewed research provides academic analysis of social engineering, phishing, and human factors.
+- FBI resources provide background on counterintelligence and economic-security concerns.
+- The case-study communication record provides the incident-specific information used in the independent analysis.
+Academic papers should be cited according to their published bibliographic information. Where a publisher or author repository provides an accepted manuscript, readers should consult the available version and confirm publication metadata before using it in formal academic work.
+
+This document does not claim that every recommendation is directly prescribed by every cited source. The references provide supporting context for the overall security approach.
+7. Conclusion
+The research supports a layered approach to corporate security that combines employee awareness, identity verification, information protection, technical safeguards, incident response, and organizational accountability.
+
+These sources provide the research foundation for the recommendations in Recommendations/Security-Recommendations.md.
+
+The objective is to demonstrate an evidence-based understanding of corporate security risks and practical defensive measures while maintaining professional standards of documentation and attribution.
+8. Disclaimer
+This reference paper was prepared as part of an independent cybersecurity portfolio project associated with the Corporate Security Threat Investigation Case Study.
+
+It is not an official report, investigation, or endorsement by NIST, CISA, the FBI, xAI, or any other organization. Inclusion of a source does not imply that the source investigated, confirmed, or endorsed the incident described in the case study.
